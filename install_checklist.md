@@ -89,7 +89,7 @@ If they followed the instructions, it should be working. If it is not working, t
 1. Follow along with the installation.
 1. Go back to steps 1 and 2 to check.
 
-# QGIS 
+## QGIS 
 
 Try to launch it. That's pretty much it.
 
@@ -149,7 +149,7 @@ Try to launch it. That's pretty much it.
 1. Follow along with the installation.
 1. Go back to steps 1 and 2 to check.
 
-# QGIS 
+## QGIS 
 
 Try to launch it. That's pretty much it.
 

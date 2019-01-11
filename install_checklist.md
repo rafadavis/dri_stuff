@@ -55,7 +55,12 @@
 1. Type `python` and Enter and see if it works.
 
 ## VS Code and path
-If they followed the instructions, it should be working. If it is not working, there is a solution here: https://code.visualstudio.com/docs/setup/mac
+1. If they followed the instructions, it should be working.
+1. To test, open command prompt, git bash or powershell. Type `conda` and Enter. If the program opens, it is working. If it is not working:
+1. Launch VS Code
+1. Open the Command Palette (Ctrl+Shift+P) and type `shell command`
+1. Click on "Shell Command: Install 'code' command in PATH"
+1. Close the shell (command prompt, git bash, powershell) and try it again.
 
 ## NLTK
 
